@@ -1,6 +1,6 @@
 
 
-### <div align="center">Hello, I'm Miguel, a full-time studient developer from Spain</div>  
+## <div align="center">Hello👋, I'm Miguel, a full-time studient developer from Spain</div>  
   
 
 - 🌱 I’m currently learning computer graphics, computer vision and topics related to information systems  
