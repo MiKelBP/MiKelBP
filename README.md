@@ -2,10 +2,11 @@
 
 ## <div align="center">Hello👋, I'm Miguel, a full-time studient developer from Spain</div>  
   
-
-- 🌱 I’m currently learning computer graphics, computer vision and topics related to information systems  
   
+- 💻 Currently software development engineer, full stack. Specialised in web applications and API development using Java and Spring Boot.
 
+- 🌱 Computer engineer who learnt computer graphics, computer vision and topics related to information systems during my studies.
+  
 - ❓ How to ask me something: miguelbeltranpardos@gmail.com  
   
 
@@ -60,13 +61,9 @@
 <div align="center">
 <a href="https://github.com/MiKelBP" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/mikel_bp" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
