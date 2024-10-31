@@ -1,6 +1,6 @@
 
 
-## <div align="center">Hello👋, I'm Miguel, a full-time studient developer from Spain</div>  
+## <div align="center">Hello👋, I'm Miguel, a full-stack web developer from Spain</div>  
   
   
 - 💻 Currently software development engineer, full stack. Specialised in web applications and API development using Java and Spring Boot.
@@ -8,14 +8,11 @@
 - 🌱 Computer engineer who learnt computer graphics, computer vision and topics related to information systems during my studies.
   
 - ❓ How to ask me something: miguelbeltranpardos@gmail.com  
-  
 
 - ⚡ Fun fact: I have also studied a little embedded systems  
   
-
 - 📫 Linkedin profile: www.linkedin.com/in/miguel-beltran-pardos-201095266  
   
-
 <br/>  
 
 
